@@ -9,7 +9,7 @@
 - 📫 How to reach me: [noahvanboven@gmail.com](mailto:noahvanboven@gmail.com)
 - ⚡ Something inspirational: _"All we have to decide is what to do with the time that is given to us."_
 
-**Time spent this week**
+📈 **Time spent this week**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
