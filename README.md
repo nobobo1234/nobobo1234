@@ -10,6 +10,9 @@
 - ⚡ Something inspirational: _"All we have to decide is what to do with the time that is given to us."_
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <a href="#">
