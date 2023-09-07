@@ -3,7 +3,6 @@
   <a href="https://noahvb.nl">Visit my website</a>
 </p>
 
-- 🔭 I’m currently working at [DEVENTit](https://www.deventit.nl/)
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Javascript, React and PHP**
 - 📫 How to reach me: [noahvanboven@gmail.com](mailto:noahvanboven@gmail.com)
